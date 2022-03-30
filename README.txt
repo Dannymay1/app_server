@@ -1,6 +1,5 @@
-
-sudo apt install npm
-sudo npm install -g create-react-app@3.4.1
+apt install npm
+npm install -g create-react-app@3.4.1
 npm init react-app webserver --use-npm
 npm install react-scripts@3.4.1 -g --silent
 cd into the webserver folder
