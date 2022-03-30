@@ -1,7 +1,3 @@
-SSR Project
-# 1. Update your ubuntu machine
-sudo apt install update -y
-
 # 2. install npm as your package manager
 sudo apt install npm
 
